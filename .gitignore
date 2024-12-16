@@ -1,6 +1,6 @@
 .nextflow.log*
 .nextflow/
-work/
-output/
 input
 input/
+output/
+work/
